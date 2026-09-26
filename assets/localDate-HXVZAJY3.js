@@ -1,0 +1,1 @@
+var e=(e=new Date)=>`${e.getFullYear()}-${String(e.getMonth()+1).padStart(2,`0`)}-${String(e.getDate()).padStart(2,`0`)}`,t=e=>typeof e==`string`&&/^\d{4}-\d{2}-\d{2}$/.test(e)&&!Number.isNaN(new Date(`${e}T00:00:00`).getTime());export{e as n,t};
