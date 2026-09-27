@@ -4,7 +4,7 @@
 
 <h1 align="center">CGCC IMS Demo</h1>
 
-<p align="center">Explore the member and ministry workflows in the CGCC IMS frontend.</p>
+<p align="center">A review preview of the CGCC IMS frontend for CSDU team members.</p>
 
 ## The CGCC credo
 
@@ -15,11 +15,11 @@
 
 Source: [The CGCC Treatise, August 2024](https://thecitadelglobal.org/ochikoos/2024/08/THE-CGCC-TREATISE%E2%80%94AUGUST-2024-Website.pdf).
 
-## Explore the demo
+## Request demo access
 
-Open the [CGCC IMS demo](https://joethesaint.github.io/cgcc-demo/). Use the demo role selector on the sign-in page to review the interface for each role.
+This preview is for CSDU team members. It is not open for public review.
 
-The demo includes member profiles and family, appointments, notifications, outreach opportunities, and role-based navigation. The layout supports desktop and mobile screens.
+If you are a CSDU team member, email [Joe](mailto:joebamisaye068@gmail.com) to request access to the demo.
 
 ## Demo data
 
