@@ -1,0 +1,1 @@
+import{n as e}from"./createMyRecordsService-6I4eNhCC.js";import{a as t,n}from"./profileCorrection-BsxZb8NC.js";var r=e({key:`cgcc_my_profile_corrections_v1`,label:`correction requests`,entity:`profile_correction`,path:null,validate:t,clean:n,initialStatus:`open`,seed:()=>[]});export{r as t};
