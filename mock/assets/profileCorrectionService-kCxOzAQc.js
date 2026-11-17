@@ -1,0 +1,1 @@
+import"./apiMode-DQGocxrw.js";import"./apiError-DF8_mZ-b.js";import{n as e}from"./createMyRecordsService-WmH8THBY.js";import{c as t,r as n}from"./profileCorrection-BLWMTZ-B.js";var r=e({key:`cgcc_my_profile_corrections_v1`,label:`correction requests`,entity:`profile_correction`,path:null,validate:t,clean:n,initialStatus:`open`,seed:()=>[]});export{r as t};
