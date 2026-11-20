@@ -1,0 +1,1 @@
+import{tt as e}from"./vendor-vue-BIp3P--3.js";function t(t,{isEmpty:n=()=>!1}={}){let r=e(`loading`),i=e(null),a=e(null);return{state:r,data:i,error:a,load:async({quiet:e=!1}={})=>{(!e||r.value!==`ready`)&&(r.value=`loading`),a.value=null;try{i.value=await t(),r.value=n(i.value)?`empty`:`ready`}catch(e){a.value=e,r.value=`error`}}}}export{t};
