@@ -1,0 +1,1 @@
+var e=/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/,t=(t={},n=`Help signing in`)=>{let r=String(t.VITE_OFFICE_EMAIL||``).trim();if(e.test(r))return{kind:`email`,label:r,href:`mailto:${r}?subject=${encodeURIComponent(n)}`};let i=String(t.VITE_OFFICE_PHONE||``).trim(),a=i.replace(/[^\d+]/g,``);return/^\+?\d{7,15}$/.test(a)?{kind:`phone`,label:i,href:`tel:${a}`}:null};export{t};
